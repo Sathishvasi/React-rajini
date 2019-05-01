@@ -5303,7 +5303,7 @@
         name: "Animation",
         wiki: "https://en.wikipedia.org/wiki/Kochadaiiyaan"
     }, {
-        url: "https://pbs.twimg.com/profile_images/810652548252176384/dHkPNbFt_400x400.jpg",
+        url: "https://images.in.com/uploads/2017/12/dHkPNbFt.jpg?ver=0.2",
         name: "3D",
         wiki: "https://en.wikipedia.org/wiki/2.0_(film)"
     }]
